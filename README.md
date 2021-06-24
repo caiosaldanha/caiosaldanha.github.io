@@ -8,8 +8,8 @@ My name is Caio Saldanha, I'm a Dev Student from Brazil, always learning.
 - Project
 
 ### Social Media
-LinkedIn
-Github
-Portfolio
+- LinkedIn
+- Github
+- Portfolio
 
 Thanks a lot!
