@@ -1,8 +1,14 @@
-### Hi!
+### Caio Saldanha
 
-My name is Caio Saldanha, I'm a Dev Student from Brazil, always learning.
+Hi! I'm a Dev Student from Brazil, always learning.
 
-### My Projects
+### Learning
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### My Student Projects
 - Project
 - Project
 - Project
