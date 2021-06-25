@@ -1,6 +1,7 @@
-:)
+:brazil:
 
-Hi! I'm a Dev Student from Brazil, always learning.
+Hi! 🖖
+I'm a Dev Student from Brazil, always learning, always improving 💡
 
 ### Learning
 - JavaScript
@@ -8,7 +9,7 @@ Hi! I'm a Dev Student from Brazil, always learning.
 - CSS
 - SQL
 
-### My Student Projects
+### Projects
 - Project
 - Project
 - Project
@@ -18,4 +19,4 @@ Hi! I'm a Dev Student from Brazil, always learning.
 - Github
 - Portfolio
 
-Thanks a lot!
+Keep it cool ✌️
