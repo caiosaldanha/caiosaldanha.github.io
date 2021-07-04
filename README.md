@@ -1,25 +1,17 @@
 Hi! 🖖
 <br />
 <br />
+Dev Student @ Digital House - Certified Tech Developer, always learning, always improving 💡
 <br />
-I'm a Dev Student from Brazil, always learning, always improving 💡
 <br />
-<br />
-### Learning
-- JavaScript
-- HTML
-- CSS
-- SQL
 
-### Projects
-- Project
-- Project
-- Project
+### Projects Front End
+- [Starcourt Mall](https://caiosaldanha.github.io/techdev/frontend/desafios/starcourt/)
+- [Robots are real](https://caiosaldanha.github.io/techdev/frontend/desafios/robotsarereal/)
 
 ### Social Media
-- LinkedIn
-- Github
-- Portfolio
-<br />
+- [LinkedIn](https://www.linkedin.com/in/caiosaldanha/)
+- [Github](https://github.com/caiosaldanha)
+- [Behance](https://www.behance.net/caiosaldanha)
 <br />
 Keep it cool ✌️
