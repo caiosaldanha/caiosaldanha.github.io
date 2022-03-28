@@ -760,10 +760,10 @@ section {
   margin-bottom: 0;
 }
 
-.services .icon-box:hover {
+/* .services .icon-box:hover {
   border-color: #fff;
   box-shadow: 0px 0px 15px 0px rgba(255, 255, 255, 0.3);
-}
+} */
 
 .services .iconbox-blue i {
   color: #47aeff;
